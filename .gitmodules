@@ -1,0 +1,3 @@
+[submodule "Healthcare data integration pipeline"]
+	path = Healthcare data integration pipeline
+	url = https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline.git
