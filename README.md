@@ -1,5 +1,2 @@
 # Shanique-Portfolio
-created to showcase skills I have aquired 
-
-# Group project 
-I was resposible for cleaning Q3 and doing the visulisations.  
+created to showcase the skills I have aquired consisting of Individual work, group projects and Integration pipeline I generated using a large healthcare data set.
