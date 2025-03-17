@@ -10,4 +10,4 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 ** Portfolio Porjects **
 
-Healthcare Data Integration Pipeline
+[**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)
