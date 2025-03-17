@@ -1,4 +1,7 @@
 # Shanique-Portfolio
+
+Hi, I'm Shanique!
+
 I have a strong analytical background in Biochemistry and recently completed a Data Science, AI, and Machine Learning bootcamp. My passion for uncovering meaningful insights through data drives my excitement to step into the field of data science as an entry-level Data Specialist.
 
 Through my training, I've developed a sharp ability to analyze complex datasets and identify patterns and trends. My experience in laboratory techniques, data management, and statistical analysis has strengthened my problem-solving skills and ability to generate actionable insights.
