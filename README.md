@@ -10,4 +10,17 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 ** Portfolio Porjects **
 
+Python
+
 [**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)
+
+[**Wine Qaulity Prediction**](https://github.com/SHANIQUETS/AI-ML-Project/blob/main/Machine%20learning%20wine.ipynb)
+
+[**Mobile Phone Price Prediction**](https://github.com/sialf/ML_Group_1/blob/main/Mobile_Phone_Price_Predictor.ipynb)
+
+SQL
+
+Power BI
+
+Email: [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)
+
